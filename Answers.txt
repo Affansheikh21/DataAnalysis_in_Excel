@@ -1,0 +1,19 @@
+Combination Alpha included: Automobile Debt + Credit Card Debt + Income + Years at Employer + 0.25
+
+Training
+AUC: 0.84
+Min Cost = 725
+Threshold = 0.35
+
+Test
+AUC: 0.84
+Min Cost = 688
+At same threshold = 775
+Min cost threshold = 0.40
+
+Greater than test
+Greater than 0.25
+Greater than 0.75
+
+True Positive rate = 0.7
+Test Incidence = 0.3
